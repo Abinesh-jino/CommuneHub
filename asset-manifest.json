@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/CommuneHub/static/css/main.59d377cf.css",
+    "main.js": "/CommuneHub/static/js/main.d8344e1e.js",
+    "static/js/787.4af3edad.chunk.js": "/CommuneHub/static/js/787.4af3edad.chunk.js",
+    "static/media/profilepicture.png": "/CommuneHub/static/media/profilepicture.b5d30f7944b345f824ab.png",
+    "static/media/Happy.jpg": "/CommuneHub/static/media/Happy.14e1f72ffe1824fe8a94.jpg",
+    "static/media/FishCurry.jpg": "/CommuneHub/static/media/FishCurry.f1cc2b8e1a88976aa771.jpg",
+    "static/media/plus.png": "/CommuneHub/static/media/plus.b3120687d3118e5ed136.png",
+    "index.html": "/CommuneHub/index.html",
+    "main.59d377cf.css.map": "/CommuneHub/static/css/main.59d377cf.css.map",
+    "main.d8344e1e.js.map": "/CommuneHub/static/js/main.d8344e1e.js.map",
+    "787.4af3edad.chunk.js.map": "/CommuneHub/static/js/787.4af3edad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59d377cf.css",
+    "static/js/main.d8344e1e.js"
+  ]
+}
